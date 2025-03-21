@@ -1,0 +1,51 @@
+barcode,name,brand,ingredients,packaging,eco_score
+9990009860,Instant Noodles,Mars,"wheat flour, salt, oil",paper,9
+9990003613,Soft Drink,Ferrero,"corn flakes, sugar, honey",metal,1
+9990002348,Energy Drink,Danone,"sugar, cocoa, milk powder",metal,5
+9990003629,Rice,Nestlé,"corn flakes, sugar, honey",biodegradable,5
+9990003067,Rice,Mars,"corn flakes, sugar, honey",cardboard,3
+9990009829,Chocolate Bar,Danone,"pasta, tomato sauce, olive oil",paper,5
+9990005352,Cereal,Ferrero,"wheat flour, salt, oil",cardboard,5
+9990008779,Pasta,Unilever,"wheat flour, salt, oil",plastic,9
+9990008415,Soft Drink,Mars,"sugar, cocoa, milk powder",cardboard,3
+9990003878,Instant Noodles,Nestlé,"rice, water, salt",paper,3
+9990004182,Rice,Nestlé,"rice, water, salt",biodegradable,1
+9990005201,Rice,Coca-Cola,"rice, water, salt",plastic,3
+9990002821,Energy Drink,Mars,"sugar, cocoa, milk powder",carton,3
+9990007946,Pasta,Danone,"pasta, tomato sauce, olive oil",plastic,1
+9990007206,Soft Drink,Unilever,"corn flakes, sugar, honey",biodegradable,9
+9990006838,Cereal,Unilever,"carbonated water, sugar, caffeine",carton,1
+9990009198,Pasta,Mondelez,"carbonated water, sugar, caffeine",metal,1
+9990003303,Rice,Unilever,"carbonated water, sugar, caffeine",carton,5
+9990008123,Instant Noodles,Nestlé,"sugar, cocoa, milk powder",plastic,7
+9990007961,Instant Noodles,Mondelez,"pasta, tomato sauce, olive oil",carton,5
+9990006172,Instant Noodles,Mondelez,"wheat flour, salt, oil",carton,3
+9990001452,Rice,Coca-Cola,"corn flakes, sugar, honey",metal,7
+9990008860,Rice,Nestlé,"corn flakes, sugar, honey",plastic,3
+9990002188,Energy Drink,Ferrero,"wheat flour, salt, oil",glass,5
+9990008102,Soft Drink,Coca-Cola,"corn flakes, sugar, honey",biodegradable,1
+9990007255,Chocolate Bar,Mars,"rice, water, salt",glass,9
+9990002256,Instant Noodles,Coca-Cola,"rice, water, salt",paper,9
+9990007176,Cereal,Mondelez,"rice, water, salt",paper,1
+9990007149,Instant Noodles,Mondelez,"sugar, cocoa, milk powder",glass,9
+9990009091,Energy Drink,Unilever,"milk, sugar, cocoa butter",glass,5
+9990008326,Energy Drink,Mondelez,"carbonated water, sugar, caffeine",cardboard,7
+9990005909,Chocolate Bar,PepsiCo,"sugar, cocoa, milk powder",carton,3
+9990008583,Soft Drink,Kellogg's,"carbonated water, sugar, caffeine",paper,9
+9990003943,Cereal,Coca-Cola,"sugar, cocoa, milk powder",cardboard,5
+9990006023,Pasta,Kellogg's,"carbonated water, sugar, caffeine",glass,7
+9990002695,Pasta,Ferrero,"milk, sugar, cocoa butter",metal,3
+9990002585,Instant Noodles,Kellogg's,"wheat flour, salt, oil",cardboard,7
+9990003042,Cereal,Danone,"pasta, tomato sauce, olive oil",carton,7
+9990008024,Instant Noodles,Coca-Cola,"wheat flour, salt, oil",biodegradable,1
+9990007838,Pasta,PepsiCo,"carbonated water, sugar, caffeine",paper,9
+9990001607,Cereal,Nestlé,"pasta, tomato sauce, olive oil",plastic,7
+9990009660,Pasta,Nestlé,"corn flakes, sugar, honey",glass,3
+9990006182,Soft Drink,Kellogg's,"sugar, cocoa, milk powder",glass,7
+9990001781,Rice,Danone,"milk, sugar, cocoa butter",plastic,5
+9990009940,Energy Drink,PepsiCo,"sugar, cocoa, milk powder",glass,9
+9990008595,Energy Drink,Nestlé,"corn flakes, sugar, honey",glass,1
+9990002879,Energy Drink,Mondelez,"milk, sugar, cocoa butter",paper,7
+9990004478,Instant Noodles,PepsiCo,"carbonated water, sugar, caffeine",cardboard,9
+9990007801,Soft Drink,Unilever,"rice, water, salt",paper,9
+9990007319,Soft Drink,Danone,"sugar, cocoa, milk powder",paper,9

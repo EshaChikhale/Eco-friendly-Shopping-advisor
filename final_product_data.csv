@@ -1,0 +1,101 @@
+barcode,name,brand,ingredients,packaging,eco_score
+9990009860,Instant Noodles,Mars,"wheat flour, salt, oil",paper,9
+9990003613,Soft Drink,Ferrero,"corn flakes, sugar, honey",metal,1
+9990002348,Energy Drink,Danone,"sugar, cocoa, milk powder",metal,5
+9990003629,Rice,Nestlé,"corn flakes, sugar, honey",biodegradable,5
+9990003067,Rice,Mars,"corn flakes, sugar, honey",cardboard,3
+9990009829,Chocolate Bar,Danone,"pasta, tomato sauce, olive oil",paper,5
+9990005352,Cereal,Ferrero,"wheat flour, salt, oil",cardboard,5
+9990008779,Pasta,Unilever,"wheat flour, salt, oil",plastic,9
+9990008415,Soft Drink,Mars,"sugar, cocoa, milk powder",cardboard,3
+9990003878,Instant Noodles,Nestlé,"rice, water, salt",paper,3
+9990004182,Rice,Nestlé,"rice, water, salt",biodegradable,1
+9990005201,Rice,Coca-Cola,"rice, water, salt",plastic,3
+9990002821,Energy Drink,Mars,"sugar, cocoa, milk powder",carton,3
+9990007946,Pasta,Danone,"pasta, tomato sauce, olive oil",plastic,1
+9990007206,Soft Drink,Unilever,"corn flakes, sugar, honey",biodegradable,9
+9990006838,Cereal,Unilever,"carbonated water, sugar, caffeine",carton,1
+9990009198,Pasta,Mondelez,"carbonated water, sugar, caffeine",metal,1
+9990003303,Rice,Unilever,"carbonated water, sugar, caffeine",carton,5
+9990008123,Instant Noodles,Nestlé,"sugar, cocoa, milk powder",plastic,7
+9990007961,Instant Noodles,Mondelez,"pasta, tomato sauce, olive oil",carton,5
+9990006172,Instant Noodles,Mondelez,"wheat flour, salt, oil",carton,3
+9990001452,Rice,Coca-Cola,"corn flakes, sugar, honey",metal,7
+9990008860,Rice,Nestlé,"corn flakes, sugar, honey",plastic,3
+9990002188,Energy Drink,Ferrero,"wheat flour, salt, oil",glass,5
+9990008102,Soft Drink,Coca-Cola,"corn flakes, sugar, honey",biodegradable,1
+9990007255,Chocolate Bar,Mars,"rice, water, salt",glass,9
+9990002256,Instant Noodles,Coca-Cola,"rice, water, salt",paper,9
+9990007176,Cereal,Mondelez,"rice, water, salt",paper,1
+9990007149,Instant Noodles,Mondelez,"sugar, cocoa, milk powder",glass,9
+9990009091,Energy Drink,Unilever,"milk, sugar, cocoa butter",glass,5
+9990008326,Energy Drink,Mondelez,"carbonated water, sugar, caffeine",cardboard,7
+9990005909,Chocolate Bar,PepsiCo,"sugar, cocoa, milk powder",carton,3
+9990008583,Soft Drink,Kellogg's,"carbonated water, sugar, caffeine",paper,9
+9990003943,Cereal,Coca-Cola,"sugar, cocoa, milk powder",cardboard,5
+9990006023,Pasta,Kellogg's,"carbonated water, sugar, caffeine",glass,7
+9990002695,Pasta,Ferrero,"milk, sugar, cocoa butter",metal,3
+9990002585,Instant Noodles,Kellogg's,"wheat flour, salt, oil",cardboard,7
+9990003042,Cereal,Danone,"pasta, tomato sauce, olive oil",carton,7
+9990008024,Instant Noodles,Coca-Cola,"wheat flour, salt, oil",biodegradable,1
+9990007838,Pasta,PepsiCo,"carbonated water, sugar, caffeine",paper,9
+9990001607,Cereal,Nestlé,"pasta, tomato sauce, olive oil",plastic,7
+9990009660,Pasta,Nestlé,"corn flakes, sugar, honey",glass,3
+9990006182,Soft Drink,Kellogg's,"sugar, cocoa, milk powder",glass,7
+9990001781,Rice,Danone,"milk, sugar, cocoa butter",plastic,5
+9990009940,Energy Drink,PepsiCo,"sugar, cocoa, milk powder",glass,9
+9990008595,Energy Drink,Nestlé,"corn flakes, sugar, honey",glass,1
+9990002879,Energy Drink,Mondelez,"milk, sugar, cocoa butter",paper,7
+9990004478,Instant Noodles,PepsiCo,"carbonated water, sugar, caffeine",cardboard,9
+9990007801,Soft Drink,Unilever,"rice, water, salt",paper,9
+9990007319,Soft Drink,Danone,"sugar, cocoa, milk powder",paper,9
+3017620422003,Nutella,"Nutella ,Ferrero","Sucre, huile de palme, NOISETTES 13%, cacao maigre 7,4%, LAIT écrémé en poudre 6,6%, LACTOSERUM en poudre, émulsifiants: lécithines [SOJA), vanilline. Sans gluten.","Plastic,fr:Pot en verre",-1
+5449000131805,Instant Noodles,Coca-Cola,"carbonated water, colour (caramel e150d), acid (phosphoric acid), sweeteners (aspartame, acesulfame k), natural flavourings (including caffeine), acidity regulator (sodium citrates) contains a source of phenylalanine,","Metal,Recyclable Metals,Aluminium,Can,Drink can",-1
+7622210449283,Soft Drink,LuMondelez,"Céréale 50,7 % (farine de BLÉ 35 %, farine de BLÉ complète 15,7 %), sucre, huiles végétales (palme, colza), cacao maigre en poudre 4,5 %, sirop de glucose, amidon de BLE, poudre à lever (carbonate acide d'ammonium, carbonate acide de sodium, diphosphate disodique), émulsifiants (lécithine de SOJA, lecithine de tournesol), sel, LAIT écrémé en poudre, lactose et protéines de LAIT, arômes. PEUT CONTENIR OEUF.","Packet,Hdpe film-packet,Etui en carton,Film en plastique",-1
+5000159484695,Twix glacé x6,Twix,"Sucre, sirop de glucose, _lait_ écrémé, crème légère (_lait_), eau, beurre de cacao, matière grasse de noix de coco, _lait_ écrémé concentré sucré, pâte de cacao, farine de _blé_, matière grasse de palme, _lait_ écrémé en poudre, _lactose_, matière grasse du _lait_, huile de palmiste, petit-_lait_ en poudre, cacao maigre, beurre (_lait_), émulsifiants (lécithine de _soja_, E471, tristéarate de sorbitane), _lait_ entier en poudre, stabilisants (E407, E410, E412), arômes naturels (_lait_), sel, colorant naturel (caramel ordinaire), cacao en poudre, poudre à lever (E503), extrait naturel de vanille. (Peut contenir: cacahuète, noisette, amande). Produit en France.","Plastique, Carton, Surgelé, Green Dot",6
+8410076472744,Pasta,Mondelez,"pasta, tomato sauce, olive oil",metal,-1
+3045140105502,Chocolat au lait,Milka,"Sucre, Beurre de cacao, pâte de cacao, Lait écrémé en poudre, lactosérum en poudre (Lait), Beurre concentré, Émulsifiant (Lécithine de soja), Pâte de noisette, Arôme naturel","Plastique,Étui",3
+7613035713530,Cereal,Coca-Cola,"milk, sugar, cocoa butter",glass,-1
+8076800195053,Chocolate Bar,Kellogg's,"sugar, cocoa, milk powder",carton,-1
+0038000547523,Instant Noodles,Nestlé,"carbonated water, sugar, caffeine",glass,-1
+8410184000006,Energy Drink,Unilever,"sugar, cocoa, milk powder",biodegradable,-1
+3228857000857,Energy Drink,Kellogg's,"milk, sugar, cocoa butter",metal,-1
+4311501654005,Soft Drink,Unilever,"carbonated water, sugar, caffeine",carton,-1
+5000112548167,Coca-Cola Light,Coca-Cola,"Wasser, Kohlensäure, Farbstoff E 150d, Säuerungsmittel Phosphorsäure und Citronensäure, Süßungsmittel (Natriumcyclamat, Acesulfam K, Aspartam), Aroma, Aroma Koffein.","Kunststoff, PET - Polyethylenterephtalat, Einwegpfand",-1
+9002490100666,Energy Drink,Mondelez,"corn flakes, sugar, honey",carton,-1
+3046920022611,Cereal,Danone,"sugar, cocoa, milk powder",paper,-1
+0016000261408,Instant Noodles,Danone,"milk, sugar, cocoa butter",plastic,-1
+737628064502,Thai peanut noodle kit includes stir-fry rice noodles & thai peanut seasoning,"Thai Kitchen,Simply Asia","Rice Noodles (rice, water), seasoning packet (peanut, sugar, salt, corn starch, spices [chili, cinnamon, pepper, cumin, clove], hydrolyzed soy protein, green onions, citric acid, peanut oil, sesame oil, natural flavor).","Container, Cellophane",-1
+5906747313101,Chocolate Bar,Mondelez,"carbonated water, sugar, caffeine",biodegradable,-1
+8715700110621,Pasta,Danone,"milk, sugar, cocoa butter",biodegradable,-1
+5000159414029,Chocolate Bar,PepsiCo,"sugar, cocoa, milk powder",carton,-1
+5449000054228,Pasta,Coca-Cola,"wheat flour, salt, oil",carton,-1
+5411188116727,Rice,Kellogg's,"rice, water, salt",paper,-1
+7613035303632,Pasta,Ferrero,"corn flakes, sugar, honey",carton,-1
+4008400402845,Cereal,PepsiCo,"corn flakes, sugar, honey",carton,-1
+8712566128105,Chocolate Bar,Nestlé,"carbonated water, sugar, caffeine",plastic,-1
+7613035712670,Chocolate Bar,Mars,"wheat flour, salt, oil",biodegradable,-1
+7622210632687,Chocolate Bar,Kellogg's,"wheat flour, salt, oil",carton,-1
+5411188121721,Energy Drink,Mars,"sugar, cocoa, milk powder",cardboard,-1
+3017620425035,Nutella,Ferrero,"Sucre, huile de palme, NOISETTES 13%, LAIT écrémé en poudre 8,7%, cacao maigre 7,4%, émulsifiants: lécithines [SOJA]; vanilline. Sans gluten","Composites multicouches,Plastique,Carton,Verre,PP 5 - Polypropylène,Verre transparent,Carton non ondulé,82 C/X,82 C/PAP,en:Bocal",3
+0075357014297,Soft Drink,PepsiCo,"carbonated water, sugar, caffeine",metal,-1
+8410076472546,Chocolate Bar,Nestlé,"wheat flour, salt, oil",glass,-1
+7622210713781,Cereal,Nestlé,"carbonated water, sugar, caffeine",biodegradable,-1
+5000112548167,Coca-Cola Light,Coca-Cola,"Wasser, Kohlensäure, Farbstoff E 150d, Säuerungsmittel Phosphorsäure und Citronensäure, Süßungsmittel (Natriumcyclamat, Acesulfam K, Aspartam), Aroma, Aroma Koffein.","Kunststoff, PET - Polyethylenterephtalat, Einwegpfand",-1
+3228857000857,Cereal,Kellogg's,"corn flakes, sugar, honey",metal,-1
+8712566128105,Energy Drink,Unilever,"wheat flour, salt, oil",metal,-1
+5411188116727,Rice,Mondelez,"milk, sugar, cocoa butter",carton,-1
+7613035937071,Chocolate Bar,Mondelez,"sugar, cocoa, milk powder",paper,-1
+7622210632687,Cereal,Nestlé,"sugar, cocoa, milk powder",metal,-1
+7622210449283,Prince Goût Chocolat,LuMondelez,"Céréale 50,7 % (farine de BLÉ 35 %, farine de BLÉ complète 15,7 %), sucre, huiles végétales (palme, colza), cacao maigre en poudre 4,5 %, sirop de glucose, amidon de BLE, poudre à lever (carbonate acide d'ammonium, carbonate acide de sodium, diphosphate disodique), émulsifiants (lécithine de SOJA, lecithine de tournesol), sel, LAIT écrémé en poudre, lactose et protéines de LAIT, arômes. PEUT CONTENIR OEUF.","Packet,Hdpe film-packet,Etui en carton,Film en plastique",-1
+5449000004216,Cereal,Kellogg's,"sugar, cocoa, milk powder",glass,-1
+3017620425035,Nutella,Ferrero,"Sucre, huile de palme, NOISETTES 13%, LAIT écrémé en poudre 8,7%, cacao maigre 7,4%, émulsifiants: lécithines [SOJA]; vanilline. Sans gluten","Composites multicouches,Plastique,Carton,Verre,PP 5 - Polypropylène,Verre transparent,Carton non ondulé,82 C/X,82 C/PAP,en:Bocal",3
+0038000547523,Pasta,Coca-Cola,"corn flakes, sugar, honey",cardboard,-1
+4000521002346,Chocolate Bar,Danone,"rice, water, salt",metal,-1
+5449000131805,Coca-Cola zero azúcar,Coca-Cola,"carbonated water, colour (caramel e150d), acid (phosphoric acid), sweeteners (aspartame, acesulfame k), natural flavourings (including caffeine), acidity regulator (sodium citrates) contains a source of phenylalanine,","Metal,Recyclable Metals,Aluminium,Can,Drink can",-1
+8410076472744,Cereal,Unilever,"milk, sugar, cocoa butter",carton,-1
+7613035303632,Rice,PepsiCo,"wheat flour, salt, oil",carton,-1
+3228857000857,Cereal,Mondelez,"corn flakes, sugar, honey",carton,-1
+737628064502,Chocolate Bar,"Thai Kitchen,Simply Asia","Rice Noodles (rice, water), seasoning packet (peanut, sugar, salt, corn starch, spices [chili, cinnamon, pepper, cumin, clove], hydrolyzed soy protein, green onions, citric acid, peanut oil, sesame oil, natural flavor).",carton,-1
+4008400402845,Rice,Danone,"pasta, tomato sauce, olive oil",paper,-1
+5411188116727,Instant Noodles,Mondelez,"carbonated water, sugar, caffeine",carton,-1
