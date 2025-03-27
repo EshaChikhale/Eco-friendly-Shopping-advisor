@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EO Score Viewer</title>
+    <style>
+        body {
+            font-family: 'Cursive', sans-serif; /* Adds an elegant and creative style */
+            background-image: url("C:/Users/eshag/OneDrive/Desktop/miniprojectTE/eco.jpg"); /* Path to your eco-themed image */
+            background-size: cover; 
+            background-repeat: no-repeat;
+            background-blend-mode: overlay; /* Enhances the background image subtly */
+            color: #2b2b2b;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            border: 2px solid #dcd0ff;
+            border-radius: 15px;
+            background-color: #ffffff;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-family: 'Georgia', serif; /* Gives a premium and classy vibe */
+            font-size: 26px;
+            color: #6f4e37; /* A warm, earthy tone */
+            letter-spacing: 2px; /* Adds spacing for elegance */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Subtle text shadow for depth */
+        }
+
+        #eo-score {
+            font-size: 22px;
+            color: #e05a47; /* Bold and striking for attention */
+            font-weight: bold;
+            margin: 20px 0;
+            background-color: rgba(255, 255, 255, 0.8); /* Slightly translucent background */
+            padding: 10px;
+            border-radius: 10px; /* Smooth corners */
+            display: inline-block; /* Keeps it centered and compact */
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Adds pop */
+        }
+
+        button {
+            font-family: 'Verdana', sans-serif;
+            padding: 12px 25px;
+            border: 2px solid #6f4e37;
+            border-radius: 30px;
+            background-color: #fddbb4; /* A soft, inviting tone */
+            color: #6f4e37;
+            font-size: 16px;
+            cursor: pointer;
+            transition: transform 0.2s, background-color 0.3s;
+        }
+
+        button:hover {
+            transform: scale(1.05); /* Slight enlargement for a fun hover effect */
+            background-color: #f5a88e; /* A friendly yet dynamic hover color */
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Environmental Opportunity (EO) Score</h1>
+        <div id="eo-score">EO Score: 85</div>
+        <button onclick="showAlternatives()">Other Alternatives</button>
+    </div>
+
+    <script>
+        // Dummy function for fetching EO score
+        function updateEOScore() {
+            // Actual function to fetch EO score (to be implemented)
+            // Example: 
+            // fetch('/get-eo-score')
+            //     .then(response => response.json())
+            //     .then(data => {
+            //         document.getElementById('eo-score').textContent = `EO Score: ${data.score}`;
+            //     })
+            //     .catch(err => console.error('Error fetching EO Score:', err));
+            
+            // Using dummy data for now
+            const eoScore = 85;
+            document.getElementById('eo-score').textContent = `EO Score: ${eoScore}`;
+        }
+
+        // Dummy function for "Other Alternatives"
+        function showAlternatives() {
+            // Replace with actual implementation
+            alert('Showing dummy alternatives for now: Product A, Product B, Product C');
+        }
+
+        // Call the dummy function to update EO score
+        updateEOScore();
+    </script>
+</body>
+</html>
